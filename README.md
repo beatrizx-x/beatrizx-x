@@ -13,9 +13,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="300px">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" alt="Minha sequência de commits" />
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="250px">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
