@@ -1,6 +1,11 @@
 <h1>Olá, Sou a Ana Beatriz</h1>
 <p> Front-end Developer em formação.</p>
 
+### 🛠️ No que estou trabalhando:
+- 📚 Estudando **Analise e Desenvolvimento de Sistemas**
+- 💻 Aprimorando Hardskills no **Entra21**.
+- 🧪 Explorando a união de UX Design com desenvolvimento web.
+- 
 <h2> Hardskills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
