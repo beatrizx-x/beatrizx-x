@@ -1,29 +1,57 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ana%20Beatriz&fontSize=60&fontAlignY=40&animation=twinkling&theme=radical)
-<p> Front-end Developer em formação.</p>
-
-### 🛠️ No que estou trabalhando:
-- 📚 Estudando **Analise e Desenvolvimento de Sistemas**
-- 💻 Aprimorando Hardskills no **Entra21**.
-- 🧪 Explorando a união de UX Design com desenvolvimento web.
-
-<h2 align="center">Hardskills</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ana%20Beatriz&fontSize=60&fontAlignY=40&animation=twinkling&theme=radical)
+
+## ✨ Bem-vindo(a) ao meu perfil! ✨
+
+<p align="center">
+  <b>Front-end Developer em formação </b> e entusiasta de <b> UX/UI Design</b>.<br>
+  Transformando código em experiências visuais incríveis.
+</p>
+
+---
+
+### 🛠️ No que estou trabalhando:
+
+<section> 
+<ul>
+  <li>
+📚 Estudando Análise e Desenvolvimento de Sistemas
+  </li>
+</ul><ul>
+  <li>
+  💻 Aprimorando Hardskills no Entra21             
+  </li>
+</ul><ul>
+  <li>
+  🧪 Explorando a união de UX Design com desenvolvimento web
+  </li>
+</ul>
+</section>
+<br>
+
+## 🚀 Hardskills
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+<br>
+<br>
+
+| 🐱  | 📊  |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="280px"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" /> |
+
+<br>
+
+---
+*“A intersecção onde o código encontra a empatia do usuário.”*
+
 </div>
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="250px">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
+
+
+
 
 
 
