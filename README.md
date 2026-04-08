@@ -45,7 +45,8 @@
 <br>
 
 ---
-*“A intersecção onde o código encontra a empatia do usuário.”*
+*“Transformando ideias em interfaces e café em código🧋”* 
+![Cafe](https://img.shields.io/badge/-Coffee%20Time-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
 
 </div>
 
