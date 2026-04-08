@@ -1,4 +1,4 @@
-<h1>Olá, Sou a Ana Beatriz</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ana%20Beatriz&fontSize=60&fontAlignY=40&animation=twinkling&theme=radical)
 <p> Front-end Developer em formação.</p>
 
 ### 🛠️ No que estou trabalhando:
@@ -24,3 +24,6 @@
     </td>
   </tr>
 </table>
+
+
+
