@@ -5,7 +5,7 @@
 - 📚 Estudando **Analise e Desenvolvimento de Sistemas**
 - 💻 Aprimorando Hardskills no **Entra21**.
 - 🧪 Explorando a união de UX Design com desenvolvimento web.
-- 
+
 <h2> Hardskills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,4 +15,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="300px">
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" alt="Minha sequência de commits" />
 </div>
