@@ -38,11 +38,9 @@
 <br>
 <br>
 
-| 🐱  | 📊  |
+| 🐱 | 📊 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/791d5059-c9cc-466a-8faf-435153be4fd9" width="280px"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" /> |
-
-<br>
+| <img src="https://github.com/user-attachments/assets/21d94a47-5a4f-4783-a6c8-a33cf5ef2ec4" width="280px"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizx-x&theme=radical&hide_border=true" /> |
 
 ---
 *“Transformando ideias em interfaces e café em código🧋”* 
