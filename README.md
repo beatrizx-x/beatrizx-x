@@ -3,10 +3,15 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ana%20Beatriz&fontSize=60&fontAlignY=40&animation=twinkling&theme=radical)
 
-## ✨ Bem-vindo(a) ao meu perfil! ✨
+<div align="center">
+  <h1>
+    ✨ Bem-vindo(a) ao meu perfil! ✨ 
+    <img src="https://komarev.com/ghpvc/?username=beatrizx-x&color=bf5af2&style=flat-square&label=VISITAS" alt="Views" style="vertical-align: middle;" height="25px" />
+  </h1>
+</div>
 
 <p align="center">
-  <b>Front-end Developer em formação </b> e entusiasta de <b> UX/UI Design</b>.<br>
+  <b>Front-end Developer em formação </b> e entusiasta de <b> UX Design</b>.<br>
   Transformando código em experiências visuais incríveis.
 </p>
 
