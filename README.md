@@ -14,23 +14,26 @@
 
 ---
 
-### 🛠️ No que estou trabalhando:
+<div align="center">
 
-<section> 
-<ul>
-  <li>
-📚 Estudando Análise e Desenvolvimento de Sistemas
-  </li>
-</ul><ul>
-  <li>
-  💻 Aprimorando Hardskills no Entra21             
-  </li>
-</ul><ul>
-  <li>
-  🧪 Explorando a união de UX Design com desenvolvimento web
-  </li>
-</ul>
-</section>
+### 🛠️ No que estou trabalhando
+
+<table align="center">
+  <tr>
+    <td align="left">📚</td>
+    <td align="left"><b>Estudando</b> Análise e Desenvolvimento de Sistemas</td>
+  </tr>
+  <tr>
+    <td align="left">💻</td>
+    <td align="left"><b>Aprimorando</b> Hardskills no Entra21</td>
+  </tr>
+  <tr>
+    <td align="left">🧪</td>
+    <td align="left"><b>Explorando</b> a união de UX Research com desenvolvimento web</td>
+  </tr>
+</table>
+
+</div>
 <br>
 
 ## 🚀 Hardskills
