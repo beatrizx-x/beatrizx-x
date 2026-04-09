@@ -48,8 +48,16 @@
 *“Transformando ideias em interfaces e café em código🧋”* 
 ![Cafe](https://img.shields.io/badge/-Coffee%20Time-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
 
+<br />
 
-![Snake animation](https://github.com/beatrizx-x/beatrizx-x/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/beatrizx-x/beatrizx-x/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/beatrizx-x/beatrizx-x/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://github.com/beatrizx-x/beatrizx-x/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
 
 </div>
 
