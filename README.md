@@ -53,12 +53,11 @@
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman.svg?palette=github-dark">
-    <img src="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman.svg" alt="Pacman Contribution Graph">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 <br />
