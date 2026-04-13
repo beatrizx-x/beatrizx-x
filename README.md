@@ -51,16 +51,5 @@
 *“Transformando ideias em interfaces e café em código🧋”* 
 ![Cafe](https://img.shields.io/badge/-Coffee%20Time-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
 
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatrizx-x/beatrizx-x/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-<br />
-
 </div>
 
